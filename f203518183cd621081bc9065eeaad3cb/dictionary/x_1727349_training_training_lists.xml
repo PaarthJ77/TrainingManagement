@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ec83d9c183cd621081bc9065eeaad30f" label="Training Lists" max_length="40" name="x_1727349_training_training_lists" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Training Name" max_length="40" name="training_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Description" max_length="40" name="training_description" type="string"/>
+    </element>
+</database>
